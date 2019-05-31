@@ -5,3 +5,5 @@ https://zxingnet.codeplex.com
 
 Unity3D 5.3.5f1
 Mac OS X 10.11.5 
+
+You may need camera permission when test your app.
